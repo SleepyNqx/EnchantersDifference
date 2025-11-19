@@ -1,0 +1,11 @@
+{
+  "pack": {
+    "description": [
+      { "text": "Made by Subtrahi3rtes\nLicensed §lARR", "color": "#E6CCFF" }
+    ],
+    "pack_format": 15,
+    "supported_formats": [15, 255],
+    "min_format": 15,
+    "max_format": 255
+  }
+}
